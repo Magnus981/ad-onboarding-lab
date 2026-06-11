@@ -42,3 +42,4 @@ CreateAD:
 Git brukes til å holde oversikt over endringer i script og dokumentasjon.
 Logger og testdata er holdt utenfor Git med .gitignore.
  hei dette er en praktisk demo til eksamen si hei alle sammen 
+hei hei dette er en liten demo titl eksamne!!
