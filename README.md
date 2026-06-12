@@ -43,4 +43,6 @@ Git brukes til å holde oversikt over endringer i script og dokumentasjon.
 Logger og testdata er holdt utenfor Git med .gitignore.
  
 
+hei dette er en demo til eksamen
+
 
